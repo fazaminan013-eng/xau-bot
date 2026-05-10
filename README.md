@@ -1,2 +1,0 @@
-# xau-bot
-main.py fetcher.py ifvg_detector.py risk_calculator.py telegram_notifier.py config.py requirements.txt
